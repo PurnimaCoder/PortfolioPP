@@ -30,17 +30,6 @@ function Education() {
             />
           </Col>
 
-{/*           <Col md={12} className="project-card">
-            <ProjectCard
-              imgPath={govt}
-              isBlog={false}
-              title="B.Sc in Mathematics"
-              description="Government Aunotomous College , Rourkela"
-              place="Rourkela , India"
-              cgpa="9.6/10"
-              duration="June 2018 - May 2021"
-            />
-          </Col> */}
 
 {/*           <Col md={12} className="project-card">
             <ProjectCard
@@ -50,7 +39,7 @@ function Education() {
               description="Government Jr. College , Rourkela"
               place="Rourkela , India"
               cgpa="76%"
-              duration="June 2016 - May 2018"        
+              duration="June 2019 - May 2021"        
             />
           </Col> */}
 
@@ -62,7 +51,7 @@ function Education() {
               description="Fakir Mohan Bidyapitha"
               place="Sundergarh , India"
               cgpa="89.5%"
-              duration="May 2016"   
+              duration="May 2019"   
             />
           </Col> */}
           
