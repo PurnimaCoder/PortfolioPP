@@ -30,7 +30,7 @@ function Education() {
             />
           </Col>
 
-          <Col md={12} className="project-card">
+{/*           <Col md={12} className="project-card">
             <ProjectCard
               imgPath={govt}
               isBlog={false}
@@ -40,9 +40,9 @@ function Education() {
               cgpa="9.6/10"
               duration="June 2018 - May 2021"
             />
-          </Col>
+          </Col> */}
 
-          <Col md={12} className="project-card">
+{/*           <Col md={12} className="project-card">
             <ProjectCard
               imgPath={govt}
               isBlog={false}
@@ -52,9 +52,9 @@ function Education() {
               cgpa="76%"
               duration="June 2016 - May 2018"        
             />
-          </Col>
+          </Col> */}
 
-          <Col md={12} className="project-card">
+{/*           <Col md={12} className="project-card">
             <ProjectCard
               imgPath={fakir}
               isBlog={false}
@@ -64,7 +64,7 @@ function Education() {
               cgpa="89.5%"
               duration="May 2016"   
             />
-          </Col>
+          </Col> */}
           
         </Row>
       </Container>
